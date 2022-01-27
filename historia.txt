@@ -3,3 +3,4 @@ Nacio en Mexico.
 Esta aprendiendo a usar git.
 Hoy hace algo de frio.
 Estos dias han estado frios pero hoy el clima esta agradable.
+Hoy esta decidido a terminar el curso de git y github.
